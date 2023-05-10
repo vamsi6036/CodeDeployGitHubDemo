@@ -1,0 +1,145 @@
+.site-Img{
+    width:  85%;
+    height: 400px;
+    margin-left: 100px;
+}
+.site-Gal{
+    height: 35px;
+    position: absolute;
+    opacity: 0.8;
+    top: 430px;
+    right: 150px;
+    border-radius: 6px;
+    background-color: aliceblue;
+}
+.site-title{
+    color: #192F60;
+    font-weight:bolder;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.overview{
+    margin-bottom: 40px;
+}
+.hi a{
+    color: #192F60;
+    font-weight:bold;
+    text-decoration: none;
+}
+.hi a:hover{
+    color: rgb(183, 47, 112);
+}
+
+.on1{
+    font-size: 21px;
+    margin-left: 110px;
+}
+
+.on{
+    font-size: 21px;
+    margin-left: 50px;
+}
+
+.on2{
+    font-size: 20px;
+    background-color: rgba(239, 4, 4, 0.838);
+    color: white;
+    border-radius: 6px;
+    margin-left: 820px;
+    padding: 5px; 
+    font-weight: 500;
+    height: 50px;
+    margin-top: -5px;
+
+}
+ hr{
+    margin-top: 550px;
+    width: 1320px;
+    border: none;
+    height: 3px;
+    background: grey;
+    margin-left: 30px;
+}
+.site-title1{
+    color: #192F60;
+    font-weight:bolder;
+    font-size: 22px;
+    margin-left: 110px;
+    margin-top: 60px;
+}
+.final{
+    margin-top: 70px;
+    color: #192F60;
+    margin-left: 120px;
+}
+.final p{
+    font-weight: 450;
+}
+.two1 h3{
+    margin-top: -25px;
+    font-size: 20px;
+}
+.two2 h3{
+    margin-top: -15px;
+    font-size: 20px;
+}
+.site-title2{
+    color: #192F60;
+    font-weight:bolder;
+    font-size: 22px;
+}
+.contact{
+    color: #192F60;
+    margin-left: 120px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.phn{
+    color: palevioletred;
+}
+.contact2{
+    margin-top: 45px;
+}
+
+
+
+.bannerImg {
+    width: auto;
+    height: 33rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .site-Gal {
+        position: absolute;
+        left: 55%;
+        top: 40%;
+        width: 200px;
+        height: 35px;
+        opacity: 0.6;
+        border-radius: 3px;
+        background-color: #ffffff;
+    }
+}
+.pay{
+    float: right;
+    margin: -38px 6px 0 0;
+}
+.add-button {
+    position: absolute;
+    margin-top: -1rem;
+    left: 87%;
+}
+
+.add-number {
+    position: absolute;
+    margin-top: -1rem;
+    left: 86%
+}
+
+.qty {
+    background-color: white;
+    width: 18px;
+    display: inline-block;
+    padding: 2px 0px 0px 6px;
+}
